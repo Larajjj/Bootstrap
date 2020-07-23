@@ -14,7 +14,8 @@ codegolf.stackexchange.com
 
 
 
-Navbar- /*Documentation and examples for Bootstrap’s powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.
+Navbar- /*Documentation and examples for Bootstrap’s powerful, responsive navigation header, the navbar. 
+          Includes support for branding, navigation, and more, including support for our collapse plugin.
 
 <body> 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -59,17 +60,23 @@ Grid system - /*Bootstrap’s grid system uses a series of containers, rows, and
 */
 
 
-Containers- /*Containers are the most basic layout element in Bootstrap and are required when using our default grid system. Containers are used to contain, pad, and (sometimes) center the content within them. While containers can be nested, most layouts do not require a nested container.*/
+Containers- /*Containers are the most basic layout element in Bootstrap and are required when using our default grid system.
+            Containers are used to contain, pad, and (sometimes) center the content within them. While containers can be nested, 
+            most layouts do not require a nested container.*/
 
 
-Carousel- /*The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous/next controls and indicators.*/
+Carousel- /*The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. 
+          It works with a series of images, text, or custom markup. It also includes support for previous/next controls and indicators.*/
 
 
-Cards- /* A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options. */
+Cards- /* A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, 
+        contextual background colors, and powerful display options. */
 
 Z-index /* Stacking Order Flowchart*/
 
-Media query breakpoints: /*Since Bootstrap is developed to be mobile first, we use a handful of media queries to create sensible breakpoints for our layouts and interfaces. These breakpoints are mostly based on minimum viewport widths and allow us to scale up elements as the viewport changes. */
+Media query breakpoints: /*Since Bootstrap is developed to be mobile first, we use a handful of media queries to create sensible breakpoints 
+                          for our layouts and interfaces. These breakpoints are mostly based on minimum viewport widths and allow us to 
+                          scale up elements as the viewport changes. */
 
 
 
